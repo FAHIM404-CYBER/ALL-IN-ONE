@@ -2,6 +2,8 @@
 
 # Paid tool
 
+# Only 100 TK
+
 # Installation
 
 
